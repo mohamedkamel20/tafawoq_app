@@ -1,8 +1,8 @@
 import 'dart:convert';
-import 'package:academy_app/models/course.dart';
-import 'package:academy_app/models/course_detail.dart';
-import 'package:academy_app/models/lesson.dart';
-import 'package:academy_app/models/section.dart';
+import 'package:tafawoq_app/models/course.dart';
+import 'package:tafawoq_app/models/course_detail.dart';
+import 'package:tafawoq_app/models/lesson.dart';
+import 'package:tafawoq_app/models/section.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:http/http.dart' as http;
 import '../constants.dart';

@@ -1,12 +1,12 @@
 // ignore_for_file: use_build_context_synchronously
 
 import 'dart:io';
-import 'package:academy_app/constants.dart';
-import 'package:academy_app/models/common_functions.dart';
-import 'package:academy_app/models/user.dart';
-import 'package:academy_app/providers/auth.dart';
-import 'package:academy_app/widgets/app_bar_two.dart';
-import 'package:academy_app/widgets/user_image_picker.dart';
+import 'package:tafawoq_app/constants.dart';
+import 'package:tafawoq_app/models/common_functions.dart';
+import 'package:tafawoq_app/models/user.dart';
+import 'package:tafawoq_app/providers/auth.dart';
+import 'package:tafawoq_app/widgets/app_bar_two.dart';
+import 'package:tafawoq_app/widgets/user_image_picker.dart';
 import 'package:flutter/material.dart';
 import 'package:material_design_icons_flutter/material_design_icons_flutter.dart';
 import 'package:provider/provider.dart';

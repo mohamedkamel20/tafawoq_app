@@ -1,4 +1,4 @@
-import 'package:academy_app/screens/sub_category_screen.dart';
+import 'package:tafawoq_app/screens/sub_category_screen.dart';
 import 'package:flutter/material.dart';
 import '../constants.dart';
 

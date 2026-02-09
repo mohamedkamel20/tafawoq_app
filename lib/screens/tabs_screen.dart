@@ -1,7 +1,7 @@
 import 'dart:convert';
-import 'package:academy_app/constants.dart';
-import 'package:academy_app/widgets/app_bar.dart';
-import 'package:academy_app/widgets/filter_widget.dart';
+import 'package:tafawoq_app/constants.dart';
+import 'package:tafawoq_app/widgets/app_bar.dart';
+import 'package:tafawoq_app/widgets/filter_widget.dart';
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import '../l10n/app_localizations.dart';

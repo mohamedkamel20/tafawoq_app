@@ -1,4 +1,4 @@
-import 'package:academy_app/screens/course_detail_screen.dart';
+import 'package:tafawoq_app/screens/course_detail_screen.dart';
 import 'package:flutter/material.dart';
 import '../constants.dart';
 import '../widgets/star_display_widget.dart';

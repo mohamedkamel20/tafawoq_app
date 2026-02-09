@@ -1,4 +1,4 @@
-import 'package:academy_app/widgets/app_bar_two.dart';
+import 'package:tafawoq_app/widgets/app_bar_two.dart';
 import 'package:flutter/material.dart';
 import 'package:webview_flutter/webview_flutter.dart';
 

@@ -2,8 +2,8 @@
 
 import 'dart:convert';
 
-import 'package:academy_app/models/live_class_model.dart';
-import 'package:academy_app/providers/shared_pref_helper.dart';
+import 'package:tafawoq_app/models/live_class_model.dart';
+import 'package:tafawoq_app/providers/shared_pref_helper.dart';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 import 'package:intl/intl.dart';

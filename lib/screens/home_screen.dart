@@ -2,8 +2,8 @@
 
 import 'dart:async';
 import 'dart:convert';
-import 'package:academy_app/providers/bundles.dart';
-import 'package:academy_app/widgets/bundle_grid.dart';
+import 'package:tafawoq_app/providers/bundles.dart';
+import 'package:tafawoq_app/widgets/bundle_grid.dart';
 import '../l10n/app_localizations.dart';
 import '../providers/categories.dart';
 import '../widgets/category_list_item.dart';

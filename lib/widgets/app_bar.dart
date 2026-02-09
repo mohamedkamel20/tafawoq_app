@@ -1,9 +1,9 @@
 import 'dart:async';
 import 'dart:convert';
-import 'package:academy_app/screens/courses_screen.dart';
+import 'package:tafawoq_app/screens/courses_screen.dart';
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:http/http.dart' as http;
-import 'package:academy_app/models/app_logo.dart';
+import 'package:tafawoq_app/models/app_logo.dart';
 import 'package:flutter/material.dart';
 import '../constants.dart';
 import 'search_widget.dart';

@@ -1,6 +1,6 @@
-import 'package:academy_app/models/bundle.dart';
-import 'package:academy_app/screens/bundle_details_screen.dart';
-import 'package:academy_app/screens/my_bundle_courses_list_screen.dart';
+import 'package:tafawoq_app/models/bundle.dart';
+import 'package:tafawoq_app/screens/bundle_details_screen.dart';
+import 'package:tafawoq_app/screens/my_bundle_courses_list_screen.dart';
 import 'package:flutter/material.dart';
 import '../constants.dart';
 import '../widgets/star_display_widget.dart';

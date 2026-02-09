@@ -1,5 +1,5 @@
 import 'dart:convert';
-import 'package:academy_app/models/common_functions.dart';
+import 'package:tafawoq_app/models/common_functions.dart';
 import 'package:flutter/material.dart';
 import '../constants.dart';
 import '../screens/mcbd_one.dart';

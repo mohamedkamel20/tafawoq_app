@@ -1,10 +1,10 @@
 import 'dart:convert';
-import 'package:academy_app/models/bundle.dart';
-import 'package:academy_app/models/bundle_courses_model.dart';
-import 'package:academy_app/models/bundle_details_model.dart';
-import 'package:academy_app/models/lesson.dart';
-import 'package:academy_app/models/my_course.dart';
-import 'package:academy_app/models/section.dart';
+import 'package:tafawoq_app/models/bundle.dart';
+import 'package:tafawoq_app/models/bundle_courses_model.dart';
+import 'package:tafawoq_app/models/bundle_details_model.dart';
+import 'package:tafawoq_app/models/lesson.dart';
+import 'package:tafawoq_app/models/my_course.dart';
+import 'package:tafawoq_app/models/section.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:http/http.dart' as http;
 import '../constants.dart';

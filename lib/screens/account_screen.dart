@@ -3,10 +3,10 @@
 import 'dart:async';
 import 'dart:convert';
 import 'dart:io';
-import 'package:academy_app/providers/auth.dart';
-import 'package:academy_app/screens/account_remove_screen.dart';
-import 'package:academy_app/widgets/account_list_tile.dart';
-import 'package:academy_app/widgets/custom_text.dart';
+import 'package:tafawoq_app/providers/auth.dart';
+import 'package:tafawoq_app/screens/account_remove_screen.dart';
+import 'package:tafawoq_app/widgets/account_list_tile.dart';
+import 'package:tafawoq_app/widgets/custom_text.dart';
 import 'package:connectivity_plus/connectivity_plus.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';

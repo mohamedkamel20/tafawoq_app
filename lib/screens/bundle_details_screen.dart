@@ -1,13 +1,13 @@
 // ignore_for_file: deprecated_member_use
 
-import 'package:academy_app/models/bundle_details_model.dart';
-import 'package:academy_app/models/common_functions.dart';
-import 'package:academy_app/providers/bundles.dart';
-import 'package:academy_app/providers/shared_pref_helper.dart';
-import 'package:academy_app/widgets/app_bar_two.dart';
-import 'package:academy_app/widgets/course_grid.dart';
-import 'package:academy_app/widgets/custom_text.dart';
-import 'package:academy_app/widgets/star_display_widget.dart';
+import 'package:tafawoq_app/models/bundle_details_model.dart';
+import 'package:tafawoq_app/models/common_functions.dart';
+import 'package:tafawoq_app/providers/bundles.dart';
+import 'package:tafawoq_app/providers/shared_pref_helper.dart';
+import 'package:tafawoq_app/widgets/app_bar_two.dart';
+import 'package:tafawoq_app/widgets/course_grid.dart';
+import 'package:tafawoq_app/widgets/custom_text.dart';
+import 'package:tafawoq_app/widgets/star_display_widget.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:url_launcher/url_launcher.dart';

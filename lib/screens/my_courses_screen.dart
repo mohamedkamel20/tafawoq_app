@@ -2,11 +2,11 @@
 
 import 'dart:async';
 import 'dart:convert';
-import 'package:academy_app/providers/my_bundles.dart';
-import 'package:academy_app/providers/my_courses.dart';
-import 'package:academy_app/widgets/my_bundle_grid.dart';
-import 'package:academy_app/widgets/my_course_grid.dart';
-import 'package:academy_app/widgets/whatsapp_button.dart';
+import 'package:tafawoq_app/providers/my_bundles.dart';
+import 'package:tafawoq_app/providers/my_courses.dart';
+import 'package:tafawoq_app/widgets/my_bundle_grid.dart';
+import 'package:tafawoq_app/widgets/my_course_grid.dart';
+import 'package:tafawoq_app/widgets/whatsapp_button.dart';
 import 'package:connectivity_plus/connectivity_plus.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';

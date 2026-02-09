@@ -1,5 +1,5 @@
-import 'package:academy_app/constants.dart';
-import 'package:academy_app/providers/shared_pref_helper.dart';
+import 'package:tafawoq_app/constants.dart';
+import 'package:tafawoq_app/providers/shared_pref_helper.dart';
 import 'package:flutter/material.dart';
 
 class LocaleProvider with ChangeNotifier {

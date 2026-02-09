@@ -1,6 +1,6 @@
 import 'dart:async';
-import 'package:academy_app/providers/courses.dart';
-import 'package:academy_app/widgets/wishlist_grid.dart';
+import 'package:tafawoq_app/providers/courses.dart';
+import 'package:tafawoq_app/widgets/wishlist_grid.dart';
 import 'package:connectivity_plus/connectivity_plus.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';

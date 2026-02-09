@@ -3,10 +3,10 @@
 import 'dart:convert';
 import 'dart:io';
 import 'dart:math';
-import 'package:academy_app/models/forum_questions_model.dart';
-import 'package:academy_app/providers/course_forum.dart';
-import 'package:academy_app/providers/shared_pref_helper.dart';
-import 'package:academy_app/screens/search_forum.dart';
+import 'package:tafawoq_app/models/forum_questions_model.dart';
+import 'package:tafawoq_app/providers/course_forum.dart';
+import 'package:tafawoq_app/providers/shared_pref_helper.dart';
+import 'package:tafawoq_app/screens/search_forum.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:http/http.dart' as http;

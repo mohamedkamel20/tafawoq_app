@@ -1,11 +1,11 @@
 // ignore_for_file: use_build_context_synchronously
 
-import 'package:academy_app/constants.dart';
-import 'package:academy_app/models/common_functions.dart';
-import 'package:academy_app/providers/auth.dart';
-import 'package:academy_app/screens/forgot_password_screen.dart';
-import 'package:academy_app/screens/signup_screen.dart';
-import 'package:academy_app/widgets/string_extension.dart';
+import 'package:tafawoq_app/constants.dart';
+import 'package:tafawoq_app/models/common_functions.dart';
+import 'package:tafawoq_app/providers/auth.dart';
+import 'package:tafawoq_app/screens/forgot_password_screen.dart';
+import 'package:tafawoq_app/screens/signup_screen.dart';
+import 'package:tafawoq_app/widgets/string_extension.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import '../l10n/app_localizations.dart';

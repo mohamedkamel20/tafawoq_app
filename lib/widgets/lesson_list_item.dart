@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import '../constants.dart';
 import '../models/lesson.dart';
 import 'from_network.dart';
-import 'package:academy_app/screens/vimeo_iframe.dart';
+import 'package:tafawoq_app/screens/vimeo_iframe.dart';
 import 'from_youtube.dart';
 
 class LessonListItem extends StatefulWidget {

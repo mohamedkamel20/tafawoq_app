@@ -1,7 +1,7 @@
 import 'dart:async';
-import 'package:academy_app/constants.dart';
-import 'package:academy_app/providers/categories.dart';
-import 'package:academy_app/widgets/sub_category_list_item.dart';
+import 'package:tafawoq_app/constants.dart';
+import 'package:tafawoq_app/providers/categories.dart';
+import 'package:tafawoq_app/widgets/sub_category_list_item.dart';
 import 'package:connectivity_plus/connectivity_plus.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';

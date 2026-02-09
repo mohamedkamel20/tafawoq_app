@@ -1,14 +1,14 @@
 // ignore_for_file: deprecated_member_use, use_build_context_synchronously, prefer_const_constructors
 
-import 'package:academy_app/models/common_functions.dart';
-import 'package:academy_app/providers/shared_pref_helper.dart';
-import 'package:academy_app/widgets/custom_text.dart';
-import 'package:academy_app/widgets/from_vimeo_player.dart';
-import 'package:academy_app/widgets/lesson_list_item.dart';
-import 'package:academy_app/widgets/new_youtube_player.dart';
-import 'package:academy_app/widgets/star_display_widget.dart';
-import 'package:academy_app/widgets/tab_view_details.dart';
-import 'package:academy_app/widgets/util.dart';
+import 'package:tafawoq_app/models/common_functions.dart';
+import 'package:tafawoq_app/providers/shared_pref_helper.dart';
+import 'package:tafawoq_app/widgets/custom_text.dart';
+import 'package:tafawoq_app/widgets/from_vimeo_player.dart';
+import 'package:tafawoq_app/widgets/lesson_list_item.dart';
+import 'package:tafawoq_app/widgets/new_youtube_player.dart';
+import 'package:tafawoq_app/widgets/star_display_widget.dart';
+import 'package:tafawoq_app/widgets/tab_view_details.dart';
+import 'package:tafawoq_app/widgets/util.dart';
 import 'package:flutter/material.dart';
 import 'package:html_unescape/html_unescape.dart';
 import 'package:provider/provider.dart';

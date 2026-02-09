@@ -1,7 +1,7 @@
-import 'package:academy_app/constants.dart';
-import 'package:academy_app/providers/bundles.dart';
-import 'package:academy_app/widgets/app_bar_two.dart';
-import 'package:academy_app/widgets/bundle_list_item.dart';
+import 'package:tafawoq_app/constants.dart';
+import 'package:tafawoq_app/providers/bundles.dart';
+import 'package:tafawoq_app/widgets/app_bar_two.dart';
+import 'package:tafawoq_app/widgets/bundle_list_item.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import '../l10n/app_localizations.dart';

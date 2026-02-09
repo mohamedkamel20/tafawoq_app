@@ -1,4 +1,4 @@
-import 'package:academy_app/constants.dart';
+import 'package:tafawoq_app/constants.dart';
 import 'package:flutter/material.dart';
 
 /// Helper class for RTL/LTR layout utilities

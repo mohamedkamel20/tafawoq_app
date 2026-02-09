@@ -1,7 +1,7 @@
 import 'dart:io';
-import 'package:academy_app/models/course_db_model.dart';
-import 'package:academy_app/models/section_db_model.dart';
-import 'package:academy_app/models/video_db_model.dart';
+import 'package:tafawoq_app/models/course_db_model.dart';
+import 'package:tafawoq_app/models/section_db_model.dart';
+import 'package:tafawoq_app/models/video_db_model.dart';
 import 'package:path/path.dart';
 import 'package:path_provider/path_provider.dart';
 import 'package:sqflite/sqflite.dart';

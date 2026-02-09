@@ -2,10 +2,10 @@
 
 import 'dart:io';
 
-import 'package:academy_app/models/common_functions.dart';
-import 'package:academy_app/providers/auth.dart';
-import 'package:academy_app/widgets/app_bar_two.dart';
-import 'package:academy_app/widgets/custom_text.dart';
+import 'package:tafawoq_app/models/common_functions.dart';
+import 'package:tafawoq_app/providers/auth.dart';
+import 'package:tafawoq_app/widgets/app_bar_two.dart';
+import 'package:tafawoq_app/widgets/custom_text.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 

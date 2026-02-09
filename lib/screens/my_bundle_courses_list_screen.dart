@@ -1,9 +1,9 @@
 // ignore_for_file: deprecated_member_use
 
-import 'package:academy_app/providers/bundles.dart';
-import 'package:academy_app/providers/shared_pref_helper.dart';
-import 'package:academy_app/widgets/app_bar_two.dart';
-import 'package:academy_app/widgets/my_bundle_course_list_item.dart';
+import 'package:tafawoq_app/providers/bundles.dart';
+import 'package:tafawoq_app/providers/shared_pref_helper.dart';
+import 'package:tafawoq_app/widgets/app_bar_two.dart';
+import 'package:tafawoq_app/widgets/my_bundle_course_list_item.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:url_launcher/url_launcher.dart';

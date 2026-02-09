@@ -1,4 +1,4 @@
-import 'package:academy_app/screens/courses_screen.dart';
+import 'package:tafawoq_app/screens/courses_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:html_unescape/html_unescape.dart';
 import '../constants.dart';

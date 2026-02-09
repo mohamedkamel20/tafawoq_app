@@ -2,8 +2,8 @@
 
 import 'dart:convert';
 
-import 'package:academy_app/constants.dart';
-import 'package:academy_app/screens/auth_screen_private.dart';
+import 'package:tafawoq_app/constants.dart';
+import 'package:tafawoq_app/screens/auth_screen_private.dart';
 import 'package:flutter/material.dart';
 import '../providers/shared_pref_helper.dart';
 import 'tabs_screen.dart';

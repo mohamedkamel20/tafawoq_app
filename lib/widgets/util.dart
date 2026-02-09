@@ -1,5 +1,5 @@
-import 'package:academy_app/models/common_functions.dart';
-import 'package:academy_app/providers/courses.dart';
+import 'package:tafawoq_app/models/common_functions.dart';
+import 'package:tafawoq_app/providers/courses.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 

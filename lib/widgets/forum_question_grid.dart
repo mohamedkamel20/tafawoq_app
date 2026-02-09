@@ -1,10 +1,10 @@
 import 'dart:convert';
 import 'dart:io';
-import 'package:academy_app/models/common_functions.dart';
-import 'package:academy_app/models/forum_questions_model.dart';
-import 'package:academy_app/providers/course_forum.dart';
-import 'package:academy_app/providers/shared_pref_helper.dart';
-import 'package:academy_app/screens/forum_reply_screen.dart';
+import 'package:tafawoq_app/models/common_functions.dart';
+import 'package:tafawoq_app/models/forum_questions_model.dart';
+import 'package:tafawoq_app/providers/course_forum.dart';
+import 'package:tafawoq_app/providers/shared_pref_helper.dart';
+import 'package:tafawoq_app/screens/forum_reply_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
 import 'package:provider/provider.dart';

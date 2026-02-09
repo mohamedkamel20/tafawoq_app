@@ -1,5 +1,5 @@
-import 'package:academy_app/models/all_category.dart';
-import 'package:academy_app/models/sub_category.dart';
+import 'package:tafawoq_app/models/all_category.dart';
+import 'package:tafawoq_app/models/sub_category.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;

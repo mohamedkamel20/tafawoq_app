@@ -1,7 +1,7 @@
-import 'package:academy_app/providers/auth.dart';
-import 'package:academy_app/screens/downloaded_course_list.dart';
-import 'package:academy_app/screens/edit_password_screen.dart';
-import 'package:academy_app/screens/edit_profile_screen.dart';
+import 'package:tafawoq_app/providers/auth.dart';
+import 'package:tafawoq_app/screens/downloaded_course_list.dart';
+import 'package:tafawoq_app/screens/edit_password_screen.dart';
+import 'package:tafawoq_app/screens/edit_profile_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import '../constants.dart';
